@@ -1,2 +1,2 @@
-# faq-chatbottttt
+# faq-chatbot
 
