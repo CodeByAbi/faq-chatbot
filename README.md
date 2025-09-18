@@ -1,4 +1,4 @@
-# faq-chatbotttttt
+# faq-chatbot
 
 
 
