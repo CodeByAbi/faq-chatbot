@@ -1,3 +1,3 @@
-# faq-chatbott
+# faq-chatbot
 
 
