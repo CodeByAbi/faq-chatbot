@@ -1,4 +1,2 @@
 # faq-chatbott
-tttt
-ttt
 
